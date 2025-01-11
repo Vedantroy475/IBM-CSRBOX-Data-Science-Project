@@ -13,7 +13,7 @@ This repository contains the project files for my micro internship in Data Scien
 
 - **IBM CSRBOX Data Science Project - 1.R**: This R script contains the initial data analysis and visualization steps.
 - **IBM CSRBOX Data Science Project - 2.R**: This R script includes further analysis and modeling based on the insights gained from the first script.
-- **Vedant Roy IBM Micro Internship Data Science Assignment - 1.docx**: This document outlines the project objectives, methodology, and findings, providing a comprehensive overview of the work completed during the internship.
+- **Vedant Roy IBM Micro Internship Data Science Assignment.pdf**: This pdf document outlines the project objectives, methodology, and findings, providing a comprehensive overview of the work completed during the internship.
 - **Vedant Roy IBM SkillsBuild Data Science Micro Internship Completion Certificate.pdf**: This file contains the completion certificate for the micro internship, validating the skills and knowledge acquired during the program.
 
 ## Technologies Used
